@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="615" key="DIALOG_X_ORIGIN"/>
+		<item value="332" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="?" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="?"/>
+			<item value="main"/>
+			<item value="赎回"/>
+			<item value="viewin"/>
+			<item value="player"/>
+			<item value="cardpool"/>
+			<item value="escort"/>
+			<item value="revalidate"/>
+			<item value="checked"/>
+			<item value="buy"/>
+			<item value="refresh"/>
+			<item value="buyCard"/>
+			<item value="variable"/>
+			<item value="viewInit"/>
+			<item value="get"/>
+		</list>
+		<list key="replacehistory">
+			<item value=" "/>
+			<item value="score"/>
+			<item value=""/>
+			<item value="Game"/>
+			<item value="rank"/>
+			<item value="player2"/>
+			<item value="player1"/>
+			<item value="play2"/>
+			<item value="play1"/>
+			<item value="writeBytes"/>
+			<item value="scratch"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="708" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="630" key="DIALOG_HEIGHT"/>
+		<item value="762" key="DIALOG_X_ORIGIN"/>
+		<item value="478" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

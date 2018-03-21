@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.font.FontDialog">
+		<item value="603" key="x"/>
+		<item value="714" key="width"/>
+		<item value="140" key="y"/>
+		<item value="739" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.border.BorderDialog">
+		<item value="615" key="x"/>
+		<item value="689" key="width"/>
+		<item value="235" key="y"/>
+		<item value="549" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.icon.IconPropertyEditor$ImageDialog">
+		<item value="324" key="x"/>
+		<item value="1271" key="width"/>
+		<item value="89" key="y"/>
+		<item value="842" key="height"/>
+	</section>
+</section>

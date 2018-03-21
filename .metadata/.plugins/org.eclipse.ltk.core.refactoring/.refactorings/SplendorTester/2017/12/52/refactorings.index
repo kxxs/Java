@@ -1,0 +1,24 @@
+1514304610550	Rename type 'Game'
+1514304630789	Rename type 'Init'
+1514305000364	Delete element
+1514305022186	Rename compilation unit 'GameWindow.java'
+1514389627640	Delete element
+1514389630164	Delete element
+1514389823178	Rename field 'play1_grade'
+1514389832157	Rename field 'play2_grade'
+1514389842667	Rename field 'play1_name'
+1514389852835	Rename field 'play2_name'
+1514389863149	Rename field 'play1_msg'
+1514389870839	Rename field 'play2_msg'
+1514389878480	Rename field 'play1_exchange'
+1514389888966	Rename field 'play2_exchange'
+1514389898490	Rename field 'play1_escort'
+1514389914243	Rename field 'play2_escort'
+1514389922285	Rename field 'play1_buy'
+1514389929815	Rename field 'play2_buy'
+1514390161062	Rename local variable 'game'
+1514390172738	Rename local variable 'help'
+1514473994568	Delete element
+1514476140687	Delete element
+1514561168686	Delete element
+1514623940971	Rename field 'ord'

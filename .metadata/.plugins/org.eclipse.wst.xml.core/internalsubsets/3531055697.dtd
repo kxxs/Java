@@ -1,0 +1,15 @@
+
+<!ELEMENT root (card+)>
+<!ELEMENT card (name,type,targetType,needRange,img,ef_img,(att,def,eqType)?)> 
+<!ELEMENT name (#PCDATA) >
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT targetType (#PCDATA)>
+<!ELEMENT needRange (#PCDATA)>
+<!ELEMENT img (#PCDATA)>
+<!ELEMENT ef_img (#PCDATA)>
+<!ATTLIST card id CDATA #REQUIRED>
+<!ATTLIST card cardtype CDATA #REQUIRED>
+<!ATTLIST card class CDATA #REQUIRED>
+<!ENTITY AOE "0">
+<!ENTITY SELECT "1">
+<!ENTITY NONE "2">
